@@ -1,1 +1,1 @@
-Linea rama1
+Linea combinada de ambas ramas
